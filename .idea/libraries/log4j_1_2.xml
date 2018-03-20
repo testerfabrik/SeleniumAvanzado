@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="log4j-1.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/log4j-1.2.17" />
+      <root url="file://$PROJECT_DIR$/lib/selenium-3.7.0" />
+      <root url="file://$PROJECT_DIR$/lib/testng-6.11" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/selenium-3.7.0" />
+      <root url="file://$PROJECT_DIR$/lib/testng-6.11" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/log4j-1.2.17" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/selenium-3.7.0" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/testng-6.11" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/selenium-3.7.0" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/testng-6.11" recursive="false" type="SOURCES" />
+  </library>
+</component>
